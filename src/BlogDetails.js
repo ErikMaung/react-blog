@@ -10,7 +10,7 @@ const BlogDetails = () => {
         fetch('http://erikmaung.github.io/react-blog/blogs/' + blog.id, {
             method: 'DELETE'
         }).then(() => {
-            history.push('/');
+            history.push('/react-blog/');
         })
     }
 

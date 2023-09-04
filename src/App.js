@@ -14,15 +14,15 @@ function App() {
         
         <Switch>
 
-          <Route exact path="/">
+          <Route exact path="/react-blog/">
             <Home />
           </Route>
 
-          <Route path="/create">
+          <Route path="/react-blog/create">
             <Create />
           </Route>
 
-          <Route path="/blogs/:id">
+          <Route path="/react-blog/blogs/:id">
             <BlogDetails />
           </Route>
 
