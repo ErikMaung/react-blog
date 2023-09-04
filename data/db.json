@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Dog Post",
+      "body": "woof",
+      "author": "Dog",
+      "id": 1
+    },
+    {
+      "title": "Cat Post",
+      "body": "meow",
+      "author": "Cat",
+      "id": 2
+    },
+    {
+      "title": "Cat Post 2",
+      "body": "meow 2",
+      "author": "Cat",
+      "id": 3
+    }
+  ]
+}
